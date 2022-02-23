@@ -15,7 +15,8 @@ def main():
     params = {
         "format": "json",
         "keyword": keyword,
-        "applicationId": "1019079537947262807"
+        "applicationId": "1019079537947262807",
+        "minPrice": 111
     }
     
     print(get_api(url, params=params))
