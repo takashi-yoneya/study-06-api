@@ -1,7 +1,7 @@
 # 1
 VSCODEにREST Clientプラグインをインストールして楽天の商品APIを実行して結果が返ってくることを確認してみましょう。  
-REST Clientの使い方:https://protoout.studio/posts/visual-studio-code-api-rest-client<br>
-商品検索APIの仕様:https://webservice.rakuten.co.jp/api/ichibaitemsearch/<br>
+REST Clientの使い方:https://qiita.com/toshi0607/items/c4440d3fbfa72eac840c<br>
+商品検索APIの仕様:https://webservice.rakuten.co.jp/documentation/ichiba-item-search<br>
 
 # 2
 以下の仕様を参考にして、任意のキーワードでAPIを検索した時の
